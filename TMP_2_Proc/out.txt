@@ -1,0 +1,6 @@
+Container contains 5 elements.
+It is BUS: Size = 1, PowerEngine = 1
+It is TRUCK: Power = 2, PowerEngine = 2
+It is CAR: Max Speed = 333
+It is CAR: Max Speed = 0
+It is BUS: Size = 1, PowerEngine = 1
